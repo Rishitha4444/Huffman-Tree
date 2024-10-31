@@ -44,8 +44,8 @@ There are no special changes that need to be done for this Huffman coding progra
 **How to run the program**
 
 **1.Access Colab:**
-Open Google Colab
-Create new notebook or open existing
++ Open Google Colab
++ Create new notebook or open existing
 
 **2.Code Setup:**
 ```
@@ -53,14 +53,14 @@ Create new notebook or open existing
 ```
 
 **3.Run Instructions:**
-Click Runtime → Run all or press Ctrl+F9
-Or run individual cells using Shift+Enter
-Input values when prompted in the interactive cell output
++ Click Runtime → Run all or press Ctrl+F9
++ Or run individual cells using Shift+Enter
++ Input values when prompted in the interactive cell output
 
 **4.Entering Output:**
-Enter character-frequency pairs when prompted
-Press Enter without input to finish entering pairs
-View the generated Huffman tree and codes
++ Enter character-frequency pairs when prompted
++ Press Enter without input to finish entering pairs
++ View the generated Huffman tree and codes
 
   
 * Step-by-step bullets
@@ -76,7 +76,7 @@ View the generated Huffman tree and codes
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the README.md file for details
+This project is licensed under the [VENKATA NAGA RISHITHA CHOWDARY POLAVARAPU] License - see the README.md file for details
 
 ## Acknowledgments
 
