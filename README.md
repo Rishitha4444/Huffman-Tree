@@ -43,28 +43,36 @@ There are no special changes that need to be done for this Huffman coding progra
 
 **How to run the program**
 
-**1.Prerequisites Check**
-Verify Python installation
+**1.Open Google Colab**
++Go to https://colab.research.google.com/
++Click "New Notebook" or "File" → "New notebook"
+
+
+**2.Prepare Notebook**
++First cell: Optional import verification
 ```
-python --version 
+import heapq
 ```
 
-**2.File Preparation**
-+Create project directory
+**3.Write Huffman Tree Code**
++Write the code along with logic
++Write the entire code into a new code cell
+
+**4.Final Code Cell for Execution**
++Add this at end of script to automatically run
 ```
-mkdir huffman_coding
-cd huffman_coding
+if __name__ == "__main__":
+    main()
 ```
 
-**3.Interactive Steps:**
-+Enter character-frequency pairs when prompted
-+Press Enter without input to finish entering pairs
-+View the generated Huffman tree and codes
+**5.Run the Notebook**
++Use Runtime → Run all
++Alternatively, use Shift+Enter to run selected cell
 
-**4.Execution Methods**
-```
-bashCopypython huffman_coding.py
-```
+**6.Interaction**
++Follow on-screen prompts
++Enter character frequencies
 
-**5.Exit Program:**
-+Program ends automatically after completion
+**7.Save Notebook**
++Go to File and then click Save
++Now,Choose Google Drive or any other to download in .ipynb or .py file
