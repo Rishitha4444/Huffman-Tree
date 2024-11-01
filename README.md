@@ -43,46 +43,28 @@ There are no special changes that need to be done for this Huffman coding progra
 
 **How to run the program**
 
-**1.Access Colab:**
-+ Open Google Colab
-+ Create new notebook or open existing
-
-**2.Code Setup:**
+**1.Prerequisites Check**
+Verify Python installation
 ```
-!pip install heapq
+python --version 
 ```
 
-**3.Run Instructions:**
-+ Click Runtime → Run all or press Ctrl+F9
-+ Or run individual cells using Shift+Enter
-+ Input values when prompted in the interactive cell output
+**2.File Preparation**
++Create project directory
+```
+mkdir huffman_coding
+cd huffman_coding
+```
 
-**4.Entering Output:**
-+ Enter character-frequency pairs when prompted
-+ Press Enter without input to finish entering pairs
-+ View the generated Huffman tree and codes
+**3.Interactive Steps:**
++Enter character-frequency pairs when prompted
++Press Enter without input to finish entering pairs
++View the generated Huffman tree and codes
 
-  
-* Step-by-step bullets
+**4.Execution Methods**
+```
+bashCopypython huffman_coding.py
+```
 
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [VENKATA NAGA RISHITHA CHOWDARY POLAVARAPU] License - see the README.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+**5.Exit Program:**
++Program ends automatically after completion
