@@ -44,35 +44,35 @@ There are no special changes that need to be done for this Huffman coding progra
 **How to run the program**
 
 **1.Open Google Colab**
-+Go to https://colab.research.google.com/
-+Click "New Notebook" or "File" → "New notebook"
++ Go to https://colab.research.google.com/
++ Click "New Notebook" or "File" → "New notebook"
 
 
 **2.Prepare Notebook**
-+First cell: Optional import verification
++ First cell: Optional import verification
 ```
 import heapq
 ```
 
 **3.Write Huffman Tree Code**
-+Write the code along with logic
-+Write the entire code into a new code cell
++ Write the code along with logic
++ Write the entire code into a new code cell
 
 **4.Final Code Cell for Execution**
-+Add this at end of script to automatically run
++ Add this at end of script to automatically run
 ```
 if __name__ == "__main__":
     main()
 ```
 
 **5.Run the Notebook**
-+Use Runtime → Run all
-+Alternatively, use Shift+Enter to run selected cell
++ Use Runtime → Run all
++ Alternatively, use Shift+Enter to run selected cell
 
 **6.Interaction**
-+Follow on-screen prompts
-+Enter character frequencies
++ Follow on-screen prompts
++ Enter character frequencies
 
 **7.Save Notebook**
-+Go to File and then click Save
-+Now,Choose Google Drive or any other to download in .ipynb or .py file
++ Go to File and then click Save
++ Now,Choose Google Drive or any other to download in .ipynb or .py file
